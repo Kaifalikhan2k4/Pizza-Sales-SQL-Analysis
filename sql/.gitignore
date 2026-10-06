@@ -1,0 +1,17 @@
+# PostgreSQL / local database files
+*.dump
+*.backup
+
+# Python
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
